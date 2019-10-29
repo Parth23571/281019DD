@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42095" started-at="2019-10-29T04:55:33Z" finished-at="2019-10-29T04:56:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42095" started-at="2019-10-29T04:55:33Z" finished-at="2019-10-29T04:56:15Z">
+      <class name="suite1.Test2">
+        <test-method status="PASS" signature="f()[pri:0, instance:suite1.Test2@67b64c45]" name="f" duration-ms="20552" started-at="2019-10-29T04:55:33Z" finished-at="2019-10-29T04:55:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="closeSuiteBrowser()[pri:0, instance:suite1.Test2@67b64c45]" name="closeSuiteBrowser" is-config="true" duration-ms="738" started-at="2019-10-29T04:55:54Z" finished-at="2019-10-29T04:55:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSuiteBrowser -->
+      </class> <!-- suite1.Test2 -->
+      <class name="suite1.Test1">
+        <test-method status="PASS" signature="f()[pri:0, instance:suite1.Test1@4411d970]" name="f" duration-ms="6369" started-at="2019-10-29T04:55:55Z" finished-at="2019-10-29T04:56:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="closeSuiteBrowser()[pri:0, instance:suite1.Test1@4411d970]" name="closeSuiteBrowser" is-config="true" duration-ms="3054" started-at="2019-10-29T04:56:01Z" finished-at="2019-10-29T04:56:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSuiteBrowser -->
+      </class> <!-- suite1.Test1 -->
+      <class name="suite2.Test3">
+        <test-method status="PASS" signature="f()[pri:0, instance:suite2.Test3@6442b0a6]" name="f" duration-ms="10711" started-at="2019-10-29T04:56:04Z" finished-at="2019-10-29T04:56:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="closeSuiteBrowser()[pri:0, instance:suite2.Test3@6442b0a6]" name="closeSuiteBrowser" is-config="true" duration-ms="613" started-at="2019-10-29T04:56:15Z" finished-at="2019-10-29T04:56:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSuiteBrowser -->
+      </class> <!-- suite2.Test3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
